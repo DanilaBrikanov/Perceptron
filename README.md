@@ -1,0 +1,1 @@
+This notebook is an implementation of a perceptron without using libraries.
